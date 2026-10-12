@@ -1,15 +1,18 @@
 {
  "2026-10-12": {
-  "visitors": 1,
-  "mobile": 0,
+  "visitors": 2,
+  "mobile": 1,
   "entry": {
-   "/": 1
+   "/": 1,
+   "/tv/m4D9MKtUcMY": 1
   },
   "from": {
-   "vercel.com": 1
+   "vercel.com": 1,
+   "direct": 1
   },
   "seen": [
-   "96f84a04b247"
+   "96f84a04b247",
+   "a02243b77577"
   ]
  }
 }
