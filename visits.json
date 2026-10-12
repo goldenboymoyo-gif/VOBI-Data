@@ -1,21 +1,22 @@
 {
  "2026-10-12": {
-  "visitors": 4,
+  "visitors": 5,
   "mobile": 1,
   "entry": {
-   "/": 2,
+   "/": 3,
    "/tv/m4D9MKtUcMY": 1,
    "/sermons/a5G9dpVax2g": 1
   },
   "from": {
    "vercel.com": 1,
-   "direct": 3
+   "direct": 4
   },
   "seen": [
    "96f84a04b247",
    "a02243b77577",
    "ca33de7d724e",
-   "a268380b667e"
+   "a268380b667e",
+   "483bb4cb219f"
   ]
  }
 }
