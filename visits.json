@@ -23,13 +23,14 @@
   ]
  },
  "2026-10-13": {
-  "visitors": 11,
+  "visitors": 12,
   "mobile": 5,
   "entry": {
-   "/": 11
+   "/": 12
   },
   "from": {
-   "direct": 11
+   "direct": 11,
+   "vercel.com": 1
   },
   "seen": [
    "9f80d8e6ca5e",
@@ -42,7 +43,8 @@
    "a5dba7f79d09",
    "13bba4f2ca7c",
    "d483a57879df",
-   "bb53a8e52de6"
+   "bb53a8e52de6",
+   "cc3fd3862394"
   ]
  }
 }
