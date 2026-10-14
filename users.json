@@ -28,5 +28,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1791990469859
+ },
+ {
+  "id": "upujcxqbmv892vvl",
+  "name": "Bright Moyo",
+  "email": "goldenboymoyo@gmail.com",
+  "phone": "+263714719659",
+  "salt": "9538e43af9a01e79311fd9fac44ce3c5",
+  "hash": "c7915736347f1e612f162f62b95f506d3ce7ae21a1e1807af3a6a1b3bce5271a",
+  "createdAt": 1791990843105,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1791990843105
  }
 ]
