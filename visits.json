@@ -76,17 +76,18 @@
   ]
  },
  "2026-10-14": {
-  "visitors": 2,
-  "mobile": 1,
+  "visitors": 3,
+  "mobile": 2,
   "entry": {
-   "/": 2
+   "/": 3
   },
   "from": {
-   "direct": 2
+   "direct": 3
   },
   "seen": [
    "bef387a85b6f",
-   "82585ddd2685"
+   "82585ddd2685",
+   "8a49eb31135c"
   ]
  }
 }
