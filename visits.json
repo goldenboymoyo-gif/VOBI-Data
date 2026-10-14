@@ -76,15 +76,15 @@
   ]
  },
  "2026-10-14": {
-  "visitors": 19,
+  "visitors": 20,
   "mobile": 7,
   "entry": {
-   "/": 17,
+   "/": 18,
    "/account": 1,
    "/testimonies/from-stagnation-to-promotion": 1
   },
   "from": {
-   "direct": 16,
+   "direct": 17,
    "google.com": 3
   },
   "seen": [
@@ -106,7 +106,8 @@
    "5c88b1594a34",
    "b17bca000d2e",
    "59befeb61a1b",
-   "a1cbe19b4541"
+   "a1cbe19b4541",
+   "08a9f9f3fcf9"
   ]
  }
 }
