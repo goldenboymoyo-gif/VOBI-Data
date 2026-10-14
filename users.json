@@ -1,0 +1,17 @@
+[
+ {
+  "id": "kitq0cj1mv8808fr",
+  "name": "David Ndlovu",
+  "email": "davidfoggard3740@gmail.com",
+  "phone": "+263776071977",
+  "salt": "cabb04e2083f664015f753d3d38302a6",
+  "hash": "ecba547efe51e283a4dafda62234d93eb0b5e7de80189a49eda971689f5f0004",
+  "createdAt": 1791989039799,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1791989039799
+ }
+]
