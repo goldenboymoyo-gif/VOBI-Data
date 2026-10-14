@@ -13,5 +13,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1791989039799
+ },
+ {
+  "id": "hkbou47rmv88uvvn",
+  "name": "Cacile Moyo",
+  "email": "cacilemoyo86@gmail.com",
+  "phone": "0775298846",
+  "salt": "fb08ada1fbc2563efdb7f63b9f251e34",
+  "hash": "8610840cf08e400f0f94a048b0c9c2ecdf33888c2ec4ca0995a4ac8930274f7b",
+  "createdAt": 1791990469859,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1791990469859
  }
 ]
