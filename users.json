@@ -43,5 +43,19 @@
   },
   "cookies": "accepted",
   "consentAt": 1791990843105
+ },
+ {
+  "id": "yr2n9ohxmv8abc8b",
+  "name": "Mildred Ngoma",
+  "email": "ngomamildred823@gmail.com",
+  "salt": "a7b823f32277d7533dacce2ce427ef84",
+  "hash": "4ae6e61655af7b105a2a846a68e3652d086d2629d67857776026d2b7b6290f1b",
+  "createdAt": 1791992917163,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1791992917163
  }
 ]
