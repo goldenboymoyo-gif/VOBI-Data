@@ -72,5 +72,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1791998608260
+ },
+ {
+  "id": "idin6llumv9eqcw2",
+  "name": "Mikael Sibanda",
+  "email": "mikaelsibanda8@gmail.com",
+  "phone": "0776182782",
+  "salt": "b7210d838edad785fd99352665402741",
+  "hash": "1048db5f94fd76929b3999c2482f197dadb19c3d10b6122f748857d068773bf0",
+  "createdAt": 1792060802498,
+  "prefs": {
+   "preferences": false,
+   "media": true
+  },
+  "cookies": "custom",
+  "consentAt": 1792060802498
  }
 ]
