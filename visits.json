@@ -147,14 +147,15 @@
   ]
  },
  "2026-10-16": {
-  "visitors": 13,
-  "mobile": 5,
+  "visitors": 14,
+  "mobile": 6,
   "entry": {
    "/": 12,
-   "/tv/9wJiA9CMcWw": 1
+   "/tv/9wJiA9CMcWw": 1,
+   "/events": 1
   },
   "from": {
-   "direct": 11,
+   "direct": 12,
    "vercel.com": 1,
    "google.com": 1
   },
@@ -171,7 +172,8 @@
    "734a725c3135",
    "02fb42a422e5",
    "cec3f946a2c5",
-   "fe81775ed43d"
+   "fe81775ed43d",
+   "347a73055218"
   ]
  }
 }
