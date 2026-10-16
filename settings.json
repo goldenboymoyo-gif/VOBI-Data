@@ -1,13 +1,25 @@
 {
- "heroVideo": "",
+ "heroVideo": "d5NuEDZKcZg",
  "heroImage": "/photos/hero.jpg",
  "heroVideoFile": "",
- "details": {},
+ "details": {
+  "4ghB2OwtFck": {
+   "date": "2026-10-04",
+   "person": "TADIWASHE .R.MOYO",
+   "description": "Tadiwanashe R. Moyo glorifies God for outstanding academic success! Through hard work, dedication, prayer, and faith in God, he scored an incredible 100% in Computer Science, becoming the best-performing Advanced Level Computer Science student at his school. He was also awarded Overall Best Student in Computer Science for 2026, following his remarkable Ordinary Level achievement of 11 As in 2025! This testimony is a powerful reminder that when hard work meets faith, excellence speaks for itself. All glory belongs to God for granting him wisdom, strength, and outstanding results! Your dedication matters, your faith matters, and with God, excellence is possible! The hand of the diligent shall bear rule.” — Proverbs 12:24"
+  }
+ },
  "removedVideos": [],
  "hiddenVideos": [],
  "announcement": "",
  "aboutWho": "",
- "videos": [],
+ "videos": [
+  {
+   "id": "4ghB2OwtFck",
+   "title": "SUPERNATURAL ACADEMIC EXCELLENCE: GOD DID IT!",
+   "cat": "testimony"
+  }
+ ],
  "contact": {
   "phone": "+263 713 901 112",
   "prayerPhone": "+263 713 901 112",
