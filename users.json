@@ -87,5 +87,20 @@
   },
   "cookies": "custom",
   "consentAt": 1792060802498
+ },
+ {
+  "id": "x7l9nbyjmvb5nsj7",
+  "name": "mthokozisi maphosa",
+  "email": "mutomaphosa@gmail.com",
+  "phone": "0777848430",
+  "salt": "5b0ffc8694c0fcab83119bc06b9a23b4",
+  "hash": "4685b2eec6fb21dd73b8d03a10877fbfda67a1ac95c926e2c2f789cc922d1a1d",
+  "createdAt": 1792166498611,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792166498611
  }
 ]
