@@ -184,20 +184,22 @@
   ]
  },
  "2026-10-17": {
-  "visitors": 4,
-  "mobile": 1,
+  "visitors": 5,
+  "mobile": 2,
   "entry": {
-   "/": 4
+   "/": 4,
+   "/account": 1
   },
   "from": {
-   "direct": 3,
+   "direct": 4,
    "vercel.com": 1
   },
   "seen": [
    "a91878df3cfa",
    "8b300a16bb9f",
    "076e9f62ceb3",
-   "c038bb6ede8c"
+   "c038bb6ede8c",
+   "38183be5db13"
   ]
  }
 }
