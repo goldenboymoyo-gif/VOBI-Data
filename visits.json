@@ -208,19 +208,19 @@
   ]
  },
  "2026-10-18": {
-  "visitors": 18,
-  "mobile": 17,
+  "visitors": 19,
+  "mobile": 18,
   "entry": {
    "/": 11,
    "/account": 1,
    "/live": 1,
-   "/events": 3,
+   "/events": 4,
    "/sermons": 1,
    "/give": 1
   },
   "from": {
    "google.com": 9,
-   "direct": 9
+   "direct": 10
   },
   "seen": [
    "fa69b82cd3fa",
@@ -240,7 +240,8 @@
    "2db0dc3f45a6",
    "4c1c2da10a34",
    "7a858f3091aa",
-   "2b0362509618"
+   "2b0362509618",
+   "f1bf58ec200e"
   ]
  }
 }
