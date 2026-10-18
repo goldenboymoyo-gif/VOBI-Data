@@ -132,5 +132,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1792316385046
+ },
+ {
+  "id": "udok8xctmvdn6n7i",
+  "name": "Arnold baudi",
+  "email": "arnoldbaudi9@gmail.com",
+  "phone": "0774097756",
+  "salt": "c85e0acb288657464aeaaa20b36bec1f",
+  "hash": "38695425d467da8c480999f88ed72d445c00a61a12e42a73471b6681fdd375fa",
+  "createdAt": 1792316863998,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792316863998
  }
 ]
