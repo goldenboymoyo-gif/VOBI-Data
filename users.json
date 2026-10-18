@@ -117,5 +117,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1792270679702
+ },
+ {
+  "id": "d7fmkwyvmvdmwdna",
+  "name": "Brandon Wesley Mobe",
+  "email": "brendonmobe@gmail.com",
+  "phone": "+263789683583",
+  "salt": "f1f29474555fb27f4609b8ada94f13e4",
+  "hash": "c9482a7fa9df4bd4a892f936230ca9a30fbdefb30d2057127f3dda4e6649d228",
+  "createdAt": 1792316385046,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792316385046
  }
 ]
