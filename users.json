@@ -147,5 +147,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1792316863998
+ },
+ {
+  "id": "h1f88574mvfrzbpw",
+  "name": "Simbarashe Muleya",
+  "email": "simbarashemuleya2@gmail.com",
+  "phone": "0786917436",
+  "salt": "ec68e6d428b4498db38095c2d12aa4ba",
+  "hash": "edb33e0c8b459f3458439d90d2c64262148a51cd0c336c59b92d157ea45348da",
+  "createdAt": 1792445852949,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792445852949
  }
 ]
