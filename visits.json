@@ -246,16 +246,17 @@
   ]
  },
  "2026-10-19": {
-  "visitors": 8,
-  "mobile": 5,
+  "visitors": 9,
+  "mobile": 6,
   "entry": {
    "/": 5,
    "/give": 1,
-   "/about": 2
+   "/about": 2,
+   "/events": 1
   },
   "from": {
    "google.com": 5,
-   "direct": 3
+   "direct": 4
   },
   "seen": [
    "c4ae538c3100",
@@ -265,7 +266,8 @@
    "9aba6482d19d",
    "b95ca9422c49",
    "a3e333aae0c2",
-   "d2ee84408ff1"
+   "d2ee84408ff1",
+   "2dc3e3a1ce44"
   ]
  }
 }
