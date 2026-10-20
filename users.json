@@ -178,5 +178,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1792527540527
+ },
+ {
+  "id": "ehp00fk5mvh52v0z",
+  "name": "Esmynadge Tagwira",
+  "email": "esmynadgetagwira17@gmail.com",
+  "phone": "0786043255",
+  "salt": "fb27dd1ce468a275f87bb25e26e3fba5",
+  "hash": "5d975e67b31652cd6afdef4eb1be08d8a658f9ec12e7f605ae7db62871df749d",
+  "createdAt": 1792528319123,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792528319123
  }
 ]
