@@ -232,6 +232,12 @@
   "phone": "0775128851",
   "salt": "426698feba909cb4daa49ebee8cc5214",
   "hash": "50d430508754d5b5aa6f8e038acc99225bd37869814404e4c613e1eccd58907a",
-  "createdAt": 1792530998736
+  "createdAt": 1792530998736,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792531007739
  }
 ]
