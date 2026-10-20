@@ -209,5 +209,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1792528547808
+ },
+ {
+  "id": "wk4qhm6rmvh59gjy",
+  "name": "Charity Mazivanhanga",
+  "email": "charitymazivanhanga71@gmail.com",
+  "phone": "0789675060",
+  "salt": "75c71998e1fd716019e9ecbe1ea34bd3",
+  "hash": "c14fd0f1e9512403f98bb5535a471105211685f57a7fd1252a0d514637f5e356",
+  "createdAt": 1792528626958,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792528626958
  }
 ]
