@@ -277,18 +277,19 @@
   ]
  },
  "2026-10-20": {
-  "visitors": 2,
+  "visitors": 3,
   "mobile": 1,
   "entry": {
-   "/admin": 1,
+   "/admin": 2,
    "/events": 1
   },
   "from": {
-   "direct": 2
+   "direct": 3
   },
   "seen": [
    "edfc76619ebd",
-   "037dfeaca614"
+   "037dfeaca614",
+   "aca038acb949"
   ]
  }
 }
