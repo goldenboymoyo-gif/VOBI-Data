@@ -305,16 +305,17 @@
   ]
  },
  "2026-10-21": {
-  "visitors": 1,
+  "visitors": 2,
   "mobile": 1,
   "entry": {
-   "/": 1
+   "/": 2
   },
   "from": {
-   "direct": 1
+   "direct": 2
   },
   "seen": [
-   "d24ae6cccd13"
+   "d24ae6cccd13",
+   "b1a5e93be192"
   ]
  }
 }
