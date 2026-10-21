@@ -239,5 +239,19 @@
   },
   "cookies": "accepted",
   "consentAt": 1792531007739
+ },
+ {
+  "id": "r0woqhddmvi8j1b4",
+  "name": "Sign Muraga",
+  "email": "signmuraga27@gmail.com",
+  "salt": "27da007ef65adb6ad472cfb626f367df",
+  "hash": "73fa881b267c2261b7e756c6a10e8d76051c203d5dda86690512fafaa645b22b",
+  "createdAt": 1792594578784,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792594578785
  }
 ]
