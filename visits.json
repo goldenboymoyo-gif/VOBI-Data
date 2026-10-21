@@ -305,15 +305,15 @@
   ]
  },
  "2026-10-21": {
-  "visitors": 13,
-  "mobile": 10,
+  "visitors": 14,
+  "mobile": 11,
   "entry": {
-   "/": 11,
+   "/": 12,
    "/live": 1,
    "/admin": 1
   },
   "from": {
-   "direct": 11,
+   "direct": 12,
    "google.com": 2
   },
   "seen": [
@@ -329,7 +329,8 @@
    "5415178a44df",
    "d6f0644b1ea8",
    "3a65bc076b3b",
-   "7aea476fefd4"
+   "7aea476fefd4",
+   "823486e29082"
   ]
  }
 }
