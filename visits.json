@@ -305,16 +305,16 @@
   ]
  },
  "2026-10-21": {
-  "visitors": 24,
-  "mobile": 20,
+  "visitors": 25,
+  "mobile": 21,
   "entry": {
-   "/": 21,
+   "/": 22,
    "/live": 1,
    "/admin": 1,
    "/sermons/2KSq8IzkCyA": 1
   },
   "from": {
-   "direct": 22,
+   "direct": 23,
    "google.com": 2
   },
   "seen": [
@@ -341,7 +341,8 @@
    "6b6a25d2facc",
    "4b7765fe05e6",
    "a29f19e06cbb",
-   "87ea4546a746"
+   "87ea4546a746",
+   "62eba5fb6cac"
   ]
  }
 }
