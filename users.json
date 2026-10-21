@@ -253,5 +253,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1792594578785
+ },
+ {
+  "id": "xn9rbnxymvibtmgz",
+  "name": "Isheanesu Marumisa",
+  "email": "isheanesumarumisa1997@gmail.com",
+  "phone": "+263785688436",
+  "salt": "43f8d5a7be8a526b0e5264e847687f16",
+  "hash": "2d33d0f302b86957490005b0c461c0b187f9d0b4409c6fcf96f665408164f4cb",
+  "createdAt": 1792600111619,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792600111619
  }
 ]
