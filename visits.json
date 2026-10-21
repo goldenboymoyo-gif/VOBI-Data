@@ -303,5 +303,18 @@
    "4203ff9c23b3",
    "c228a63dcf98"
   ]
+ },
+ "2026-10-21": {
+  "visitors": 1,
+  "mobile": 1,
+  "entry": {
+   "/": 1
+  },
+  "from": {
+   "direct": 1
+  },
+  "seen": [
+   "d24ae6cccd13"
+  ]
  }
 }
