@@ -268,5 +268,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1792600111619
+ },
+ {
+  "id": "nr94t231mvidyza4",
+  "name": "Jayjay mainza",
+  "email": "joshualutangu2@gmail.com",
+  "phone": "+260767066663",
+  "salt": "3e30662cc34d391a62b11b50d8a18319",
+  "hash": "129b7b4ec2278ebe6d1cd4a709bfa83228acd771a71498bc229168d2057cb276",
+  "createdAt": 1792603720732,
+  "prefs": {
+   "preferences": true,
+   "media": true
+  },
+  "cookies": "accepted",
+  "consentAt": 1792603720732
  }
 ]
