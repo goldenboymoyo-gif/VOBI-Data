@@ -349,19 +349,20 @@
   ]
  },
  "2026-10-22": {
-  "visitors": 3,
-  "mobile": 2,
+  "visitors": 4,
+  "mobile": 3,
   "entry": {
    "/admin": 1,
-   "/": 2
+   "/": 3
   },
   "from": {
-   "direct": 3
+   "direct": 4
   },
   "seen": [
    "1a44f13a9633",
    "19de19a19ed3",
-   "398b777a46bd"
+   "398b777a46bd",
+   "dee00adc405f"
   ]
  }
 }
