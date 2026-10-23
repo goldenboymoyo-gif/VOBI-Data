@@ -367,18 +367,20 @@
   ]
  },
  "2026-10-23": {
-  "visitors": 2,
-  "mobile": 2,
+  "visitors": 3,
+  "mobile": 3,
   "entry": {
    "/give": 1,
-   "/sermons/2KSq8IzkCyA": 1
+   "/sermons/2KSq8IzkCyA": 1,
+   "/": 1
   },
   "from": {
-   "direct": 2
+   "direct": 3
   },
   "seen": [
    "925c82c95c18",
-   "417894247859"
+   "417894247859",
+   "befb87d4adbe"
   ]
  }
 }
