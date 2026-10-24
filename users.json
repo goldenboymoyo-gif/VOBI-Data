@@ -283,5 +283,20 @@
   },
   "cookies": "accepted",
   "consentAt": 1792603720732
+ },
+ {
+  "id": "psi3pb6omvmt988u",
+  "name": "Minister GUC",
+  "email": "anthonyveremu02@gmail.com",
+  "phone": "077 435 7851",
+  "salt": "38b5bf04e77188314109469c0ec905af",
+  "hash": "c509d2c84281f49eceac574f475c836d59338b7f3b5fa7fdd917cdbd39d75e4b",
+  "createdAt": 1792871257854,
+  "prefs": {
+   "preferences": false,
+   "media": false
+  },
+  "cookies": "declined",
+  "consentAt": 1792871257854
  }
 ]
