@@ -405,19 +405,20 @@
   ]
  },
  "2026-10-25": {
-  "visitors": 3,
-  "mobile": 1,
+  "visitors": 4,
+  "mobile": 2,
   "entry": {
-   "/account": 1,
+   "/account": 2,
    "/": 2
   },
   "from": {
-   "direct": 3
+   "direct": 4
   },
   "seen": [
    "0d599526858e",
    "c9bfd09b78be",
-   "fb4d4a0d73b7"
+   "fb4d4a0d73b7",
+   "cc30ce165ae3"
   ]
  }
 }
