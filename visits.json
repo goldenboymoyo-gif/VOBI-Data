@@ -427,21 +427,22 @@
   ]
  },
  "2026-10-26": {
-  "visitors": 4,
-  "mobile": 0,
+  "visitors": 5,
+  "mobile": 1,
   "entry": {
-   "/": 2,
+   "/": 3,
    "/admin": 1,
    "/sermons": 1
   },
   "from": {
-   "direct": 4
+   "direct": 5
   },
   "seen": [
    "23fc5a89ad6e",
    "83fd45d8c9e3",
    "02304a4509a2",
-   "bc0a6e045d1b"
+   "bc0a6e045d1b",
+   "028a86784f9e"
   ]
  }
 }
