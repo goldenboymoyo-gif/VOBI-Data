@@ -446,16 +446,18 @@
   ]
  },
  "2026-10-27": {
-  "visitors": 1,
-  "mobile": 1,
+  "visitors": 2,
+  "mobile": 2,
   "entry": {
-   "/visit": 1
+   "/visit": 1,
+   "/": 1
   },
   "from": {
-   "direct": 1
+   "direct": 2
   },
   "seen": [
-   "d7dee8c6416c"
+   "d7dee8c6416c",
+   "d3b31ea8937f"
   ]
  }
 }
