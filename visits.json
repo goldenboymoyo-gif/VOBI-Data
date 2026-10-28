@@ -459,5 +459,18 @@
    "d7dee8c6416c",
    "d3b31ea8937f"
   ]
+ },
+ "2026-10-28": {
+  "visitors": 1,
+  "mobile": 0,
+  "entry": {
+   "/sermons": 1
+  },
+  "from": {
+   "direct": 1
+  },
+  "seen": [
+   "256d1d692696"
+  ]
  }
 }
