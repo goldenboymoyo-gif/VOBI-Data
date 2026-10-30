@@ -477,16 +477,18 @@
   ]
  },
  "2026-10-30": {
-  "visitors": 1,
-  "mobile": 0,
+  "visitors": 2,
+  "mobile": 1,
   "entry": {
-   "/": 1
+   "/": 1,
+   "/admin": 1
   },
   "from": {
-   "direct": 1
+   "direct": 2
   },
   "seen": [
-   "14970d724745"
+   "14970d724745",
+   "ac6aa0a46a87"
   ]
  }
 }
