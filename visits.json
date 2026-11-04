@@ -539,16 +539,17 @@
   ]
  },
  "2026-11-04": {
-  "visitors": 1,
-  "mobile": 0,
+  "visitors": 2,
+  "mobile": 1,
   "entry": {
-   "/": 1
+   "/": 2
   },
   "from": {
-   "direct": 1
+   "direct": 2
   },
   "seen": [
-   "67be60d104d5"
+   "67be60d104d5",
+   "90a9bcf30f21"
   ]
  }
 }
