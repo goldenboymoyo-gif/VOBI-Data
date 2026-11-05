@@ -554,16 +554,18 @@
   ]
  },
  "2026-11-05": {
-  "visitors": 1,
-  "mobile": 0,
+  "visitors": 2,
+  "mobile": 1,
   "entry": {
-   "/": 1
+   "/": 2
   },
   "from": {
-   "google.com": 1
+   "google.com": 1,
+   "direct": 1
   },
   "seen": [
-   "32260c521e94"
+   "32260c521e94",
+   "ae429c09edff"
   ]
  }
 }
