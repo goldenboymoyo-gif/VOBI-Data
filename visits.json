@@ -570,16 +570,17 @@
   ]
  },
  "2026-11-07": {
-  "visitors": 1,
-  "mobile": 1,
+  "visitors": 2,
+  "mobile": 2,
   "entry": {
-   "/": 1
+   "/": 2
   },
   "from": {
-   "direct": 1
+   "direct": 2
   },
   "seen": [
-   "dfab22660c9c"
+   "dfab22660c9c",
+   "4d7ed4c846fb"
   ]
  }
 }
