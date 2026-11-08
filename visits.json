@@ -585,16 +585,18 @@
   ]
  },
  "2026-11-08": {
-  "visitors": 1,
-  "mobile": 1,
+  "visitors": 2,
+  "mobile": 2,
   "entry": {
-   "/": 1
+   "/": 2
   },
   "from": {
-   "direct": 1
+   "direct": 1,
+   "google.com": 1
   },
   "seen": [
-   "325aa4a71a66"
+   "325aa4a71a66",
+   "61e4a625dcf7"
   ]
  }
 }
